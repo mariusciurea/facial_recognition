@@ -5,14 +5,14 @@
  - Take a webcam capture and compare the image with one from an input (e.g. for authetication purpose)
 
 
-### Requrements: <br />
-pip install opencv-python <br />
-pip install tensorflow <br />
-pip install deepface <br />
+### Requirements: <br />
+- pip install opencv-python <br />
+- pip install tensorflow <br />
+- pip install deepface <br />
 ----------------------------
-import os <br />
-import cv2 <br />
-import pandas as pd <br />
-from deepface import DeepFace <br />
+- import os <br />
+- import cv2 <br />
+- import pandas as pd <br />
+- from deepface import DeepFace <br />
 
 
